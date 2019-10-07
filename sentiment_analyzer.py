@@ -1,4 +1,4 @@
-import streamlit as s
+import streamlit as st
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import BernoulliNB
 from sklearn.metrics import confusion_matrix
