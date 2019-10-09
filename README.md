@@ -1,5 +1,5 @@
 # Sentiment-Analyzer-Tool
- It analyze the sentiment of the user, whether it is postive or negative.
+It analyze the sentiment of the user, whether it is postive or negative.
  
  It uses [streamlit](https://streamlit.io) library for creating this sentiment analyzer tool on a platform like web.
  
